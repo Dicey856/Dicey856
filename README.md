@@ -19,6 +19,9 @@
 <a href= "https://www.linkedin.com/in/hristiyan-cholpanov-476a9b26b/">
 <img  "width = 65px  height=65 style="padding:50px;"  alt = "insta amonge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" />
 </a>
+<a href = "https://dicey8.itch.io">
+<img  width = 65px  height=65px alt = "amonge" style="padding:50px;" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" />
+</a>
 </p2>
 
 
