@@ -49,9 +49,7 @@
 </a>
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
-</a>
-<a href="https://phaser.io" target="_blank" rel="noreferrer"> 
-<img src="https://phaser.io/images/logo/logo-download-vector.png" alt="phaser" width="40" height="40"/> 
+</a> 
 </a>
 </p>
 <br>
