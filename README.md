@@ -1,14 +1,14 @@
 <h1 align="center">🎲About me: </h1>
 
 <p1 align="center">🎉 Hey there, welcome to my GitHub profile!  
-<br>🐱‍💻 I'm an aspiring developer currently studying C#, but I also love playing around with MySQL and Python. 
+<br>🐱‍💻 I'm an aspiring developer currently studying C#, but I also love playing around with MySQL and other languages. 
 <br>💻 I've got a bunch of cool projects up on here that show off my skills and my love for coding. 
 <br>👨‍💻 I'm all about exploring new technologies and tackling complex challenges, so you never know what you might find in my portfolio! 
 <br>👋 Thanks for stopping by, hope you enjoy checking out my work! </p1>
 
 
 
-<h2>🌐Socials:</h2>
+<h2 align="center">🌐Socials:</h2>
 <p2 align="center"> 
 <a href = "https://www.youtube.com/@dicey2908/featured">
 <img  width = 65px  height=65px alt = "amonge" style="padding:50px;" src="https://www.freepnglogos.com/uploads/official-youtube-logo-png-18.png" />
