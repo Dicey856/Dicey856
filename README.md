@@ -30,22 +30,22 @@
 <h3 align="left" >🧰Languages & Tools: </h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cs" width="50" height="50"/> 
 </a> 
 <a href="https://www.w3schools.com/asp/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://clipground.com/images/asp-net-logo-png-1.png" alt="asp" width="40" height="40"/> 
+<img src="https://clipground.com/images/asp-net-logo-png-1.png" alt="asp" width="50" height="50"/> 
 </a> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50"/> 
 </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/> 
 </a>
 <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 </a>
 <a href="https://www.netacad.com/" target="_blank" rel="noreferrer"> 
-<img src="https://venturebeat.com/wp-content/uploads/2019/02/1200px-Cisco_logo_blue_2016.svg_.png?resize=1200%2C600&strip=all" alt="cisco" width="80" height="40"/> 
+<img src="https://venturebeat.com/wp-content/uploads/2019/02/1200px-Cisco_logo_blue_2016.svg_.png?resize=1200%2C600&strip=all" alt="cisco" width="60" height="50"/> 
 </a> 
 </a>
 </p>
