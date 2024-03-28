@@ -32,8 +32,8 @@
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+<a href="https://www.w3schools.com/asp/default.asp" target="_blank" rel="noreferrer"> 
+<img src="https://clipground.com/images/asp-net-logo-png-1.png" alt="asp" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
