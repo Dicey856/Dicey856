@@ -30,8 +30,8 @@
 <br>
 
 <br>
-<h3 align="left" >🧰Languages & Tools: </h3>
-<p align="left"> 
+<h3 align="center" >🧰Languages & Tools: </h3>
+<p align="center"> 
 
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
