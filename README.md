@@ -41,8 +41,8 @@
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
 </a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
+<a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
 </a>
 </p>
