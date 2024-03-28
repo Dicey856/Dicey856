@@ -1,6 +1,6 @@
-<h1>🎲About me: </h1>
+<h1 align="center">🎲About me: </h1>
 
-<p1>🎉 Hey there, welcome to my GitHub profile!  
+<p1 align="center">🎉 Hey there, welcome to my GitHub profile!  
 <br>🐱‍💻 I'm an aspiring developer currently studying C#, but I also love playing around with MySQL and Python. 
 <br>💻 I've got a bunch of cool projects up on here that show off my skills and my love for coding. 
 <br>👨‍💻 I'm all about exploring new technologies and tackling complex challenges, so you never know what you might find in my portfolio! 
@@ -32,7 +32,6 @@
 <br>
 <h3 align="center" >🧰Languages & Tools: </h3>
 <p align="center"> 
-
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
 </a> 
