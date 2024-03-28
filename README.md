@@ -22,7 +22,7 @@
 
 
 
-<img align = "right" width="600" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"/>
+<img align = "right" width="300" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"/>
 <br>
 <br>
 <br>
