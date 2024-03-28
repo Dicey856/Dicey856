@@ -10,16 +10,16 @@
 
 <h2 align="center">🌐Socials:</h2>
 <p2 align="center"> 
-<a href = "https://www.youtube.com/@dicey2908/featured">
+<a align="center" href = "https://www.youtube.com/@dicey2908/featured">
 <img  align="center" width = 65px  height=65px alt = "amonge" style="padding:50px;" src="https://www.freepnglogos.com/uploads/official-youtube-logo-png-18.png" />
 </a>
-<a href= "https://www.instagram.com/dice_enjoyer/">
+<a align="center" href= "https://www.instagram.com/dice_enjoyer/">
 <img  align="center" "width = 65px  height=65 alt = "insta amonge" style="padding:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
-<a href= "https://www.linkedin.com/in/hristiyan-cholpanov-476a9b26b/">
+<a align="center" href= "https://www.linkedin.com/in/hristiyan-cholpanov-476a9b26b/">
 <img  align="center" "width = 65px  height=65 style="padding:50px;"  alt = "insta amonge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" />
 </a>
-<a href = "https://dicey8.itch.io">
+<a align="center" href = "https://dicey8.itch.io">
 <img  align="center" width = 65px  height=65px alt = "amonge" style="padding:50px;" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" />
 </a>
 </p2>
