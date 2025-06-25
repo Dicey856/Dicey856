@@ -7,7 +7,7 @@
 <h2>🌐Socials:</h2>
 <p2 align="center"> 
 <a href = "https://www.youtube.com/@dicey2908/featured">
-<img  width = 65px  height=65px alt = "amonge" style="padding:50px;" src="https://www.freepnglogos.com/uploads/official-youtube-logo-png-18.png" />
+<img  width = 65px  height=65px alt = "amonge" style="padding:50px;" src="[https://www.freepnglogos.com/uploads/official-youtube-logo-png-18.png](https://img.icons8.com/?size=512&id=zfuVDK4SdKFq&format=png)" />
 </a>
 <a href= "https://www.instagram.com/dice_enjoyer/">
 <img  "width = 65px  height=65 alt = "insta amonge" style="padding:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
